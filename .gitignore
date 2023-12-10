@@ -131,4 +131,5 @@ dist
 
 # ignore config file
 in.txt
+test.txt
 settings.json
